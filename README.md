@@ -4,9 +4,9 @@ View the <a href='https://github.com/incentives-api/agcod/wiki/User-Guide'>User 
 
 <b>Pre-requisites for AGCOD</b>
 - An Amazon-issued Partner ID
-- Knowledge of XML/JSON requests via HTTP
+- Knowledge of how to build RESTful APIs request on HTTP
 
-Note: If you are a reseller, visit the Reseller Guide Info for additional info
+Note: If you are a reseller, visit the <a href="https://github.com/incentives-api/agcod/wiki/User-Guide#Reseller">Reseller Info Guide</a> for additional info
 
 <b>AGCOD Products</b>
 - Create Gift Cards
