@@ -10,8 +10,5 @@ Note: If you are a reseller, visit the Reseller Guide Info for additional info
 
 <b>AGCOD Products</b>
 - Create Gift Cards
-  Create Amazon Gift Codes instantly
 - Login and Receive
-  Automatically add to a customer's balance
 - Web Activation
-  Activate physical stock
