@@ -1,6 +1,6 @@
 # Welcome to Amazon Gift Cards on Demand (AGCOD)
 
-View the <a href='http://s3.amazonaws.com/AGCOD/tech_spec/AGCODTechSpec_WC_Simplified_EN.pdf'>User Guide</a> or <a href='https://www.amazon.com/gift-card-api/b?ie=UTF8&node=15243199011'>Learn More about Amazon Gift Cards on Demand (AGCOD)</a>
+View the <a href='https://github.com/incentives-api/agcod/wiki/User-Guide'>User Guide</a> or <a href='https://www.amazon.com/gift-card-api/b?ie=UTF8&node=15243199011'>Learn More about Amazon Gift Cards on Demand (AGCOD)</a>
 
 <b>Pre-requisistes for AGCOD</b>
 - An Amazon-issued Partner ID
