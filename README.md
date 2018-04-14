@@ -12,3 +12,5 @@ Note: If you are a reseller, visit the <a href="https://github.com/incentives-ap
 - Create Gift Cards
 - Login and Receive
 - Web Activation
+
+<a href="https://github.com/incentives-api/agcod/wiki/User-Guide#legal">Legal</a>
