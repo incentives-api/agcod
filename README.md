@@ -1,3 +1,5 @@
+<img src="https://amazonincentives.my.salesforce.com/servlet/servlet.ImageServer?id=015800000023Ea3&oid=00D80000000ha2o" alt="Amazon Incentives">
+
 # Welcome to Amazon Gift Cards on Demand (AGCOD)
 
 With the AGCOD RESTful API, you can integrate Amazon Gift cards directly into your platform or application.  View the <a href='https://github.com/incentives-api/agcod/wiki/User-Guide'>User Guide</a> or <a href='https://www.amazon.com/gift-card-api/b?ie=UTF8&node=15243199011'>Learn More about Amazon Gift Cards on Demand (AGCOD)</a>
