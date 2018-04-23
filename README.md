@@ -8,6 +8,8 @@ With the AGCOD RESTful API, you can integrate Amazon Gift cards directly into yo
 - An Amazon-issued Partner ID
 - Knowledge of how to build RESTful APIs request on HTTP
 
+If you don't have a Partner ID, email <a href="mailto:incentives-api@amazon.com">incentives-api@amazon.com</a>
+
 Note: If you are a reseller, visit the <a href="https://github.com/incentives-api/agcod/wiki/User-Guide#Reseller">Reseller Info Guide</a> for additional info
 
 <b>AGCOD Products</b>
